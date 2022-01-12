@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 date: 2022-01-04T16:45:24+01:00
-draft: true
+draft: false
 
 ---
 
