@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo WebSite</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Hugo WebSite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jan 2022 16:46:22 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Professional Experience</title>
+      <link>http://example.org/posts/professionalexperience/</link>
+      <pubDate>Tue, 04 Jan 2022 16:46:22 +0100</pubDate>
+      
+      <guid>http://example.org/posts/professionalexperience/</guid>
+      <description>Studies :    From septembre 2021 to January 2022, Riga Technichal University Latvia. Erasmus semester
+  Since September 2018, Institut Polytechnique des Siences Avancées (IPSA) in Toulouse. Second year in engineer cycle, major aerospace systèmes spéciality SET (Embedded systems and telecommunications).
+  June 2018, Baccalauréat science section, high distinction
+  June 2016, Aeronautical initiation certificate, high distinction
+   Experience :    April 2021, EMMPOL3 Poland.</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://example.org/posts/introduction/</link>
+      <pubDate>Tue, 04 Jan 2022 16:45:38 +0100</pubDate>
+      
+      <guid>http://example.org/posts/introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/posts/contact/</link>
+      <pubDate>Tue, 04 Jan 2022 16:45:24 +0100</pubDate>
+      
+      <guid>http://example.org/posts/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
