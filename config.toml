@@ -39,7 +39,7 @@ theme = 'm10c'
   [[params.social]]
     icon = "github"
     name = "Github"
-    url = "https://github.com/gohugoio"
+    url = "https://github.com/hugopi/gopisite/tree/master"
   [[params.social]]
     icon = "linkedin"
     name = "LinkedIn"
